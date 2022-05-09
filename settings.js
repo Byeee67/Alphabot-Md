@@ -22,15 +22,15 @@ global.botname = "Alphabot-Mdོ" //namabot kalian
 global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.github = "https://zeeone-ofc.github.io/","https://github.com/devbotmail" //bebas
+global.email = "zeeoneofc@gmail.com","bisnismail.developer@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "62895322095252" // nomor wa kalian
 global.ownernomerr = "+62895322095252" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895322095252","62895322095252","16477944776","6289688069444] //ganti agar fitur owner bisa di gunakan
+global.owner = ["62895322095252","62895322095252","16477944776","6289688069444"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Alphabot-Mdོ' //sticker wm ubah
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
@@ -42,16 +42,16 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, Oke Bestie~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-    group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
+    group: 'Perintah Ini Hanya Bisa Digunakan Di Dalam Group !',
     private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
 	bot: 'Fitur Khusus Pengguna Nomor Bot',
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
-    wait: '⏳ Sedang Di Proses',
-	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
+    wait: '⏳ Sedang Di Proses Guys',
+	lockCmd: 'Fitur Belum Diaktifkan Oleh Owner!',
 	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
